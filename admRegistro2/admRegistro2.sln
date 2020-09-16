@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "admRegistro2", "admRegistro2\admRegistro2.csproj", "{27E86F6E-C205-4140-B978-700523679FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "admRegistro2.Tests", "admRegistro2.Tests\admRegistro2.Tests.csproj", "{EBA3E948-DF8D-4537-973A-2D540B96AC05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27E86F6E-C205-4140-B978-700523679FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E86F6E-C205-4140-B978-700523679FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E86F6E-C205-4140-B978-700523679FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E86F6E-C205-4140-B978-700523679FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA3E948-DF8D-4537-973A-2D540B96AC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA3E948-DF8D-4537-973A-2D540B96AC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA3E948-DF8D-4537-973A-2D540B96AC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA3E948-DF8D-4537-973A-2D540B96AC05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78D3144F-C79C-404F-91C2-EC46695D6A68}
+	EndGlobalSection
+EndGlobal
